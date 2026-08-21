@@ -2,6 +2,12 @@
 
 An interactive Flutter developer tool that converts raw SVG path data into production-ready Flutter `CustomClipper` code — instantly, with a live preview.
 
+## 🚀 Live Demo
+
+**[Try it now → https://rutviktantisoftware.github.io/shape_generator/](https://rutviktantisoftware.github.io/shape_generator/)**
+
+No install required — runs directly in your browser via Flutter Web.
+
 ## What It Does
 
 Paste any SVG `<path>` element or raw path string into the editor, and the app instantly generates a fully typed Dart `CustomClipper<Path>` class you can drop directly into your Flutter project. No manual path parsing, no math — just copy, paste, and clip.
